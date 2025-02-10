@@ -6,7 +6,7 @@
     - use quickLinks rather than restructuring the page
       - note: growth in comments as a result of ...Fo change(s)
 - Pester for the Loom demo
-  - ...
+  - consider making this a PR
 - Confirm prettyLinks are functional and that the prior problem is now resolved.
 
 ### 2025-02-09:
