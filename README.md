@@ -1,3 +1,39 @@
+
+As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
+
+
+- https://github.com/Data-Integrity-Group/Wip#civicatlas
+  - these QLs can span repos in order to rationalize relative Priorities
+    - a merged Priorities list likely has more value
+      - confirm such an interleaved list of Priorities is helpful
+    - try creating a separate file that can be attached to a PR
+- https://github.com/Data-Integrity-Group/Wip#CivicAtlasQl
+- https://github.com/Data-Integrity-Group/Wip#civicatlas.md
+- https://github.com/Data-Integrity-Group/Wip#APIdevelopmentConsiderations
+
+* when should more folders be added to this repo?
+  * Text block creation and Permission Management are likely to be the determining forces.
+    * this may be a duplicated item
+
+<hr>
+
+# 2023:
+##
+* refine ExportImport methods
+  * consider PsH based solutions for now
+  * review the new Git desktop capabilities
+  * review Git tutorials for Build refinements
+* review https://github.com/ergusto/xememex-style-guide
+
+# 2022 Initiation
+* create PRs to make this the proper repo
+
+## Wip-main
+* A Public W(ork) i(n) p(rogress) that is being slowly bootstrapped.
+* * the fact that this is a public repository suggests that there could also be a Public Slack channel for AdManCa
+* * * should AdManCa and DigCa be kept separated?
+* * seemed to work, so further enhancements will be transferrd into this environment as they finish their Private test cycles
+
 ## 2025-02:
 ...
     
@@ -613,22 +649,6 @@ H6 level support allows me to start naming blocks as Anchors that I can then jum
 
 ### Now, these quickLinks are for the convenience of the Author(s).  
 
-As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
-
-
-- https://github.com/Data-Integrity-Group/Wip#civicatlas
-  - these QLs can span repos in order to rationalize relative Priorities
-    - a merged Priorities list likely has more value
-      - confirm such an interleaved list of Priorities is helpful
-    - try creating a separate file that can be attached to a PR
-- https://github.com/Data-Integrity-Group/Wip#CivicAtlasQl
-- https://github.com/Data-Integrity-Group/Wip#civicatlas.md
-- https://github.com/Data-Integrity-Group/Wip#APIdevelopmentConsiderations
-
-* when should more folders be added to this repo?
-  * Text block creation and Permission Management are likely to be the determining forces.
-    * this may be a duplicated item
-
 * PR - with an attached file
   * try using MailFail as a learning/focus Project with CivicAtlas
     * invested Public data like Municipal Addresses should be capable of forming Aliases to LaLoAl strings
@@ -745,6 +765,7 @@ As content matures, Author links will be replaced by convenient Reader links.  A
   * the fact that this is a public repository suggests that there could also be a Public Slack channel for AdManCa
     * should AdManCa and DigCa be kept separated?
   * seemed to work, so further enhancements will be transferrd into this environment as the finish their Private test cycles
+
 
 * -08-21: resuming this PR test
   * the `Create new branch and start PR' option appeared as ...-patch-1 after a first edit.
