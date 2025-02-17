@@ -11,6 +11,7 @@ As content matures, Author links will be replaced by convenient Reader links.  A
           - at the least, this should become a shared page.
             - start by making a new page that both of the existing contexts can simple link to.
               - integration can wait a while longer
+            - where ( Name? ) should a new file reside?
     - try creating a separate file that can be attached to a PR
 - https://github.com/Data-Integrity-Group/Wip#CivicAtlasQl
 - https://github.com/Data-Integrity-Group/Wip#civicatlas.md
