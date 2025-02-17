@@ -1,4 +1,4 @@
-- Consider partnet alternatives
+- Consider partner alternatives
 
 As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
 
