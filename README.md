@@ -1,4 +1,9 @@
 - Consider partner alternatives
+  - appeals:
+    - French / Quebec ( which supports the local hire view )
+    - knowledgable resouurces in Elections (relative to CA)
+      - apparently more interesetd in active partnership than DS
+        - consider QU hire in early March though
 
 As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
 
