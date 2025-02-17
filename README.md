@@ -7,6 +7,10 @@ As content matures, Author links will be replaced by convenient Reader links.  A
   - these QLs can span repos in order to rationalize relative Priorities
     - a merged Priorities list likely has more value
       - confirm such an interleaved list of Priorities is helpful
+        - a possibler solution to thios may lie in the evolution of the PQRST ewncodings of 2024.we08
+          - at the least, this should become a shared page.
+            - start by making a new page that both of the existing contexts can simple link to.
+              - integration can wait a while longer
     - try creating a separate file that can be attached to a PR
 - https://github.com/Data-Integrity-Group/Wip#CivicAtlasQl
 - https://github.com/Data-Integrity-Group/Wip#civicatlas.md
