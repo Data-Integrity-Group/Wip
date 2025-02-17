@@ -13,6 +13,7 @@ As content matures, Author links will be replaced by convenient Reader links.  A
               - integration can wait a while longer
             - where ( Name? ) should a new file reside?
     - try creating a separate file that can be attached to a PR
+      - this is underway - simplistically
 - https://github.com/Data-Integrity-Group/Wip#CivicAtlasQl
 - https://github.com/Data-Integrity-Group/Wip#civicatlas.md
 - https://github.com/Data-Integrity-Group/Wip#APIdevelopmentConsiderations
