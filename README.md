@@ -2,9 +2,10 @@
   - appeals:
     - French / Quebec ( which supports the local hire view )
     - knowledgable resouurces in Elections (relative to CA)
-      - apparently more interesetd in active partnership than DS
+      - apparently more interested in active partnership than DS
         - consider QU hire in early March though
-    - AI Indigenous path  may still be open, but this may only become apparent during 2025-03
+          - DiscussionFlow: -02-25: LsH ; -03-05: MmD
+    - AI Indigenous path may still be open, but this may only become apparent during 2025-03
 
 As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
 
