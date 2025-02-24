@@ -9,6 +9,8 @@
 
 As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
 
+- test '*' versus '-' since this might be a compatibility TW & GitGub issue
+  - the GitHub wikis may still have compatibility options
 
 - https://github.com/Data-Integrity-Group/Wip#civicatlas
   - these QLs can span repos in order to rationalize relative Priorities
