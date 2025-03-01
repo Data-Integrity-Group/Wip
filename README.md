@@ -1,4 +1,5 @@
-  * test Shading with sum=4 prior to another edit of this file
+    * leading spaces are compromized (in my view)
+  - test Shading with sum=4 prior to another edit of this file
 - Consider partner alternatives
   - appeals:
     - French / Quebec ( which supports the local hire view )
