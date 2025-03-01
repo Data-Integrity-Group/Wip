@@ -9,6 +9,7 @@
     - CondoFolk: perhaps a JointVenture ?
   - (c/w)ould thee residentInvestor consider spawned approach to RoC?
 - this warrants a strategy session - that might fit into the LcHd scenario
+* testing a markupMix.
 
 As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
 
