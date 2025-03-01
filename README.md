@@ -7,7 +7,7 @@
           - DiscussionFlow: -02-25: LsH ; -03-05: MmD
     - AI Indigenous path may still be open, but this may only become apparent during 2025-03
     - CondoFolk: perhaps a JointVenture ?
-- (c/w)ould thee residentInvestor consider spawned approach to RoC?
+  - (c/w)ould thee residentInvestor consider spawned approach to RoC?
 
 As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
 
