@@ -1,3 +1,4 @@
+  * test Shading with sum=4 prior to another edit of this file
 - Consider partner alternatives
   - appeals:
     - French / Quebec ( which supports the local hire view )
