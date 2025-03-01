@@ -1,4 +1,6 @@
     * leading spaces are compromized (in my view)
+      * parends may be triggering the "COPY" offer
+
   - test Shading with sum=4 prior to another edit of this file
 - Consider partner alternatives
   - appeals:
