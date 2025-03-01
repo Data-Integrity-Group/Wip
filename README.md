@@ -2,6 +2,7 @@
       * parends may be triggering the "COPY" offer
         * [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
 
+[CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
 
   - test Shading with sum=4 prior to another edit of this file
 - Consider partner alternatives
