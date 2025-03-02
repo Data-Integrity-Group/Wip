@@ -3,11 +3,13 @@
         * [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
 
 
-[CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
-
 This may become an effective Preample text block.
 
 ...
+
+
+[CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
+
 
 <hr>
 
