@@ -5,6 +5,11 @@
 
 [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
 
+This may become an effective Preample text block.
+
+...
+
+<hr>
 
   - test Shading with sum=4 prior to another edit of this file
 - Consider partner alternatives
