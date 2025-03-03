@@ -16,6 +16,7 @@ This may become an effective Preample text block.
 <hr>
 
   - test Shading with sum=4 prior to another edit of this file
+    - current theory is completely confirmed - at least throughout the range I work in.
 - Consider partner alternatives
   - appeals:
     - French / Quebec ( which supports the local hire view )
