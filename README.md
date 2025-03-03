@@ -1,6 +1,8 @@
     * leading spaces are compromized (in my view)
+    * wait for the (only in India) ProductHunt app to be released here.
       * parends may be triggering the "COPY" offer
         * [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
+          
 
 
 This may become an effective Preample text block.
