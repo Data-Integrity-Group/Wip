@@ -13,6 +13,7 @@ This may become an effective Preample text block.
     * try to confirm recursions for this rule
       * testing for a 3rd level
         * must iterate upwards
+          * in order to preve the rule
 
 ...
 
