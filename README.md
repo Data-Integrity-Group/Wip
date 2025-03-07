@@ -7,6 +7,8 @@
 
 This may become an effective Preample text block.
 
+* condider LOOM via AnJo
+
 ...
 
 
