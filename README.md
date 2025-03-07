@@ -3,7 +3,7 @@
       * parends may be triggering the "COPY" offer
         * reView: https://github.com/PySpur-Dev/pyspur
           * [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
-      * testing indentation
+      * testing indentation - passed.
           
 
 
