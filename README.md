@@ -6,7 +6,7 @@
           
 
 
-This may become an effective Preample text block.
+This is effective perhaps even as a Preample text block.
 
 * consider LOOM via AnJo
 * note the ShadingLevel change at #1 = sum of lowers
