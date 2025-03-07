@@ -10,6 +10,7 @@ This may become an effective Preample text block.
 * consider LOOM via AnJo
 * note the ShadingLevel change at #1 = sum of lowers
   * testing with #2
+    * try to confirm recursions for this rule 
 
 ...
 
