@@ -12,6 +12,7 @@ This may become an effective Preample text block.
   * testing with #2
     * try to confirm recursions for this rule
       * testing for a 3rd level
+        * must iterate upwards
 
 ...
 
