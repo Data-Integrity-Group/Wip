@@ -7,7 +7,8 @@
 
 This may become an effective Preample text block.
 
-* condider LOOM via AnJo
+* consider LOOM via AnJo
+* note the ShadingLevel change at #1 = sum of lowers
 
 ...
 
