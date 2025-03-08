@@ -31,6 +31,18 @@ This is effective perhaps even as a Preample text block.
 
 <hr>
 
+    * leading spaces are compromized (in my view)
+    * wait for the (only in India) ProductHunt app to be released here.
+      * parends may be triggering the "COPY" offer
+        * reView: https://github.com/PySpur-Dev/pyspur
+          * [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
+      * testing indentation - passed.
+      * tests of another TransClusion were a FAIL -  at eleast in another .MD and in a GIST *.TXT
+        * can I have another section like this within this file?
+ 
+
+<hr>
+
   - test Shading with sum=4 prior to another edit of this file
     - current theory is completely confirmed - at least throughout the range I work in.
 - Consider partner alternatives
