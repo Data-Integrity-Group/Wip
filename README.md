@@ -9,6 +9,7 @@
 
 This is effective perhaps even as a Preample text block.
 
+* reTest PythonInstalled 
 * consider LOOM via AnJo
   * apparently not SignedUp yet  
 * note the ShadingLevel change at #1 = sum of lowers
