@@ -13,6 +13,7 @@ This is effective perhaps even as a Preample text block.
   * use PoeT
 * consider LOOM via AnJo
   * apparently not SignedUp yet  
+* tesr the use of the Preamble om a GistH page
 * note the ShadingLevel change at #1 = sum of lowers
   * testing with #2
     * try to confirm recursions for this rule
