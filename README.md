@@ -1,8 +1,8 @@
     * leading spaces are compromized (in my view)
       * do the lerading staces trigger this COPY effect?
+        * its beginning to look very likely
+      
           
-
-
 This is effective perhaps even as a Preample text block.
 
 * reTest PythonInstalled
