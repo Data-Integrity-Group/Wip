@@ -1,5 +1,5 @@
     * leading spaces are compromized (in my view)
-      * do the lerading staces trigger this COPY effect?
+      * do the leading spaces trigger this COPY effect?
         * its beginning to look very likely
       
           
