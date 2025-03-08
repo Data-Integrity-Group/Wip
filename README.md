@@ -1,8 +1,10 @@
     * leading spaces are compromized (in my view)
       * do the leading spaces trigger this COPY effect?
         * its beginning to look very likely
+          * assume this is so - at least for now
       
-          
+      
+       
 This is effective perhaps even as a Preample text block.
 
 * reTest PythonInstalled
