@@ -1,4 +1,4 @@
-    * leading spaces are compromized (in my view)
+    * leading spaces may be compromized
       * do the leading spaces trigger this COPY effect?
         * its beginning to look very likely
           * assume this is so - at least for now
