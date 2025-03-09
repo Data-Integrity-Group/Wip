@@ -51,8 +51,9 @@ This is effective perhaps even as a Preample text block.
           - DiscussionFlow: -02-25: LsH ; -03-05: MmD
 
 
-    AI/Indigenoius may be a COPY section
-      ...
+
+    * AI/Indigenoius may be a COPY section
+      * ...
 
   
     - AI Indigenous path may still be open, but this may only become apparent during 2025-03
