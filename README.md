@@ -63,15 +63,15 @@ This is effective perhaps even as a Preample text block.
   
     - AI/Indigenous path may still be open, but this may only become apparent during 2025-03
     - CondoFolk: perhaps a JointVenture ?
-  - (c/w)ould thee residentInvestor consider spawned approach to RoC?
+  - (c/w)ould the residentInvestor consider spawned approach to RoC?
 - this warrants a strategy session - that might fit into the LcHd scenario
-* testing a markupMix.
-  * with passable results
-    * further testing should include DiH trials
-  * re-test the 3X sumOfLower shading rule
-    * so-far,so-good @ sum=9
-      * andNow theTenth - reproved the Rule, as expected
-        * verify dropBack until >12 via sum=4
+- testing a markupMix.
+  - with passable results
+    - further testing should include DiH trials
+  - re-test the 3X sumOfLower shading rule
+    - so-far,so-good @ sum=9
+      - andNow theTenth - reproved the Rule, as expected
+        - verify dropBack until >12 via sum=4
 
 As content matures, Author links will be replaced by convenient Reader links.  Also, standard Report sections will emerge and styling will strive to follow the WikiPedia and the TenChapters ( 0-9 ) quidelines.
 
