@@ -54,7 +54,7 @@ This is effective perhaps even as a Preample text block.
 <hr>
 
 * leading spaces may be compromized
-  * do the leading spaces trigger this COPY effect?  Is the <hr> needed to?
+  * do the leading spaces trigger this COPY effect?  Is the 'hr' needed too?
     * its beginning to look very likely
       * assume this is so - at least for now
     * AI/Indigenoius may be a COPY section
