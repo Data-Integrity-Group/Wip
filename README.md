@@ -41,6 +41,7 @@ This is effective perhaps even as a Preample text block.
   - test Shading with sum=4 prior to another edit of this file
     - current theory is completely confirmed - at least throughout the range I work in.
       - 3x may still be a rule to contend with
+        - if so, I might need to get all the way to 90+
 - Consider partner alternatives
   - appeals:
     - French / Quebec ( which supports the local hire view )
