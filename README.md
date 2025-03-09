@@ -50,15 +50,12 @@ This is effective perhaps even as a Preample text block.
         - consider QU hire in early March though
           - DiscussionFlow: -02-25: LsH ; -03-05: MmD
 
-
-<hr>
-
-* leading spaces may be compromized
-  * do the leading spaces trigger this COPY effect?  Is the 'hr' needed too?
-    * its beginning to look very likely
-      * assume this is so - at least for now
-    * AI/Indigenoius may be a COPY section
-      * ...
+- leading spaces may be compromized
+  - do the leading spaces trigger this COPY effect?  Is the 'hr' needed too?
+    - its beginning to look very likely
+      - assume this is so - at least for now
+    - AI/Indigenoius may be a COPY section
+      - ...
 
 
 <hr>
