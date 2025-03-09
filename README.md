@@ -51,9 +51,18 @@ This is effective perhaps even as a Preample text block.
           - DiscussionFlow: -02-25: LsH ; -03-05: MmD
 
 
+<hr>
 
+
+* leading spaces may be compromized
+  * do the leading spaces trigger this COPY effect?
+    * its beginning to look very likely
+      * assume this is so - at least for now
     * AI/Indigenoius may be a COPY section
       * ...
+
+
+<hr>
 
   
     - AI Indigenous path may still be open, but this may only become apparent during 2025-03
