@@ -49,6 +49,12 @@ This is effective perhaps even as a Preample text block.
       - apparently more interested in active partnership than DS
         - consider QU hire in early March though
           - DiscussionFlow: -02-25: LsH ; -03-05: MmD
+
+
+    AI/Indigenoius may be a COPY section
+      ...
+
+  
     - AI Indigenous path may still be open, but this may only become apparent during 2025-03
     - CondoFolk: perhaps a JointVenture ?
   - (c/w)ould thee residentInvestor consider spawned approach to RoC?
