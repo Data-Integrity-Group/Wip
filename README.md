@@ -61,7 +61,7 @@ This is effective perhaps even as a Preample text block.
 <hr>
 
   
-    - AI Indigenous path may still be open, but this may only become apparent during 2025-03
+    - AI/Indigenous path may still be open, but this may only become apparent during 2025-03
     - CondoFolk: perhaps a JointVenture ?
   - (c/w)ould thee residentInvestor consider spawned approach to RoC?
 - this warrants a strategy session - that might fit into the LcHd scenario
