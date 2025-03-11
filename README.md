@@ -8,7 +8,7 @@
 This is effective perhaps even as a Preample text block.
 
 * reTest PythonInstalled
-  * use PoeT
+  * use PoeT - expanding for EdD uses too
 * consider LOOM via AnJo
   * apparently not SignedUp yet  
 * test the use of the Preamble om a GistH page
