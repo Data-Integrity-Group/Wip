@@ -7,10 +7,10 @@
        
 This is effective perhaps even as a Preample text block.
 
-* reTest PythonInstalled
-  * use PoeT - expanding for EdD uses too
 * consider LOOM via AnJo
   * apparently not SignedUp yet  
+* reTest PythonInstalled
+  * use PoeT - expanding for EdD uses too
 * test the use of the Preamble om a GistH page
 * note the ShadingLevel change at #1 = sum of lowers
   * testing with #2
