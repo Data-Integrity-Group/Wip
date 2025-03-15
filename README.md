@@ -21,6 +21,8 @@ This is effective perhaps even as a Preample text block.
 
 ...
 
+- LoomHw01
+  - https://www.loom.com/share/26bff2cb2f21485589eff618f92d76a8
 
 - [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
   - ...
