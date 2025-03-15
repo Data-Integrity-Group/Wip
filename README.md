@@ -23,6 +23,8 @@ This is effective perhaps even as a Preample text block.
 
 [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
 
+- https://github.com/TiddlyWiki/TiddlyWiki5/blob/master/contributing.md
+  - ...
 
 <hr>
 
