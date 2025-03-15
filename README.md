@@ -14,6 +14,7 @@ This is effective perhaps even as a Preample text block.
           - if I keep at it
             - a count-down may help
               - at least avoid some of the tedium
+                - two to go
 - reTest PythonInstalled
   - use PoeT - expanding for EdD uses too
 - test the use of the Preamble om a GistH page
