@@ -11,6 +11,7 @@ This is effective perhaps even as a Preample text block.
     - testing this Atlassian product
       - I may need to get to 79 to test my Sgading subProject
         - time will tell
+          - if I keep at it
 - reTest PythonInstalled
   - use PoeT - expanding for EdD uses too
 - test the use of the Preamble om a GistH page
