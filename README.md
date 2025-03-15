@@ -9,6 +9,7 @@ This is effective perhaps even as a Preample text block.
 - consider LOOM via AnJo
   - apparently not SignedUp yet
     - testing this Atlassian product
+      - I may need to get to 79 to test my Sgading subProject
 - reTest PythonInstalled
   - use PoeT - expanding for EdD uses too
 - test the use of the Preamble om a GistH page
