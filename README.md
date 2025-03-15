@@ -6,17 +6,18 @@
        
 This is effective perhaps even as a Preample text block.
 
-* consider LOOM via AnJo
-  * apparently not SignedUp yet  
-* reTest PythonInstalled
-  * use PoeT - expanding for EdD uses too
-* test the use of the Preamble om a GistH page
-* note the ShadingLevel change at #1 = sum of lowers
-  * testing with #2
-    * try to confirm recursions for this rule
-      * testing for a 3rd level
-        * must iterate upwards
-          * in order to preve the rule
+- consider LOOM via AnJo
+  - apparently not SignedUp yet  
+- reTest PythonInstalled
+  - use PoeT - expanding for EdD uses too
+- test the use of the Preamble om a GistH page
+- note the ShadingLevel change at #1 = sum of lowers
+  - testing with #2
+    - try to confirm recursions for this rule
+      - testing for a 3rd level
+        - must iterate upwards
+          - in order to preve the rule
+          - 
 
 ...
 
