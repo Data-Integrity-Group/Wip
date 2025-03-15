@@ -13,6 +13,7 @@ This is effective perhaps even as a Preample text block.
         - time will tell
           - if I keep at it
             - a count-down may help
+              - at leasat avoid some of the tedium
 - reTest PythonInstalled
   - use PoeT - expanding for EdD uses too
 - test the use of the Preamble om a GistH page
