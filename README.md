@@ -19,6 +19,7 @@ This is effective perhaps even as a Preample text block.
                     -  SUCCESS 
 - reTest PythonInstalled
   - use PoeT - expanding for EdD uses too
+    - consider TheRing
 - test the use of the Preamble om a GistH page
 - note the ShadingLevel change at #1 = sum of lowers
   - testing with #2
