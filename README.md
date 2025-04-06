@@ -4,7 +4,7 @@
       
       
        
-This is effective perhaps even as a Preample text block.
+This is effective perhaps even as a Preamble text block.
 
 - consider LOOM via AnJo
   - apparently not SignedUp yet
