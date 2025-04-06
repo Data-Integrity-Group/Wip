@@ -6,17 +6,6 @@
        
 This is effective perhaps even as a Preamble text block.
 
-- consider LOOM via AnJo
-  - apparently not SignedUp yet
-    - testing this Atlassian product
-      - I may need to get to 79 to test my Sgading subProject
-        - time will tell
-          - if I keep at it
-            - a count-down may help
-              - at least avoid some of the tedium
-                - two to go
-                  - should be done
-                    -  SUCCESS 
 - reTest PythonInstalled
   - use PoeT - expanding for EdD uses too
     - consider TheRing
@@ -41,6 +30,18 @@ This is effective perhaps even as a Preamble text block.
 
 
 ## 2025-03
+
+- consider LOOM via AnJo
+  - apparently not SignedUp yet
+    - testing this Atlassian product
+      - I may need to get to 79 to test my Sgading subProject
+        - time will tell
+          - if I keep at it
+            - a count-down may help
+              - at least avoid some of the tedium
+                - two to go
+                  - should be done
+                    -  SUCCESS 
 
 - LoomHw01
   - https://www.loom.com/share/26bff2cb2f21485589eff618f92d76a8
