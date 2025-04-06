@@ -6,9 +6,6 @@
        
 This is effective perhaps even as a Preamble text block.
 
-- reTest PythonInstalled
-  - use PoeT - expanding for EdD uses too
-    - consider TheRing
 - test the use of the Preamble om a GistH page
 - note the ShadingLevel change at #1 = sum of lowers
   - testing with #2
@@ -25,9 +22,11 @@ This is effective perhaps even as a Preamble text block.
 
 ## 2025-04
 
+- reTest PythonInstalled
+  - use PoeT - expanding for EdD uses too
+    - consider TheRing
 
 <hr>
-
 
 ## 2025-03
 
