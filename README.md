@@ -22,6 +22,8 @@ This is effective perhaps even as a Preamble text block.
 
 ## 2025-04
 
+- exztend this month's Palns
+  - ...
 - reTest PythonInstalled
   - use PoeT - expanding for EdD uses too
     - consider TheRing
