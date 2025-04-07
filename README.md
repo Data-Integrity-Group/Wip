@@ -7,15 +7,7 @@
 This is effective perhaps even as a Preamble text block.
 
 - test the use of the Preamble om a GistH page
-- note the ShadingLevel change at #1 = sum of lowers
-  - testing with #2
-    - try to confirm recursions for this rule
-      - testing for a 3rd level
-        - must iterate upwards
-          - in order to preve the rule
-          - 
-
-...
+- ...
 
 
 <hr>
@@ -27,6 +19,13 @@ This is effective perhaps even as a Preamble text block.
 - reTest PythonInstalled
   - use PoeT - expanding for EdD uses too
     - consider TheRing
+
+- note the ShadingLevel change at #1 = sum of lowers
+  - testing with #2
+    - try to confirm recursions for this rule
+      - testing for a 3rd level
+        - must iterate upwards
+          - in order to preve the rule
 
 <hr>
 
