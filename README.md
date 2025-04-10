@@ -6,7 +6,7 @@
        
 This is effective perhaps even as a Preamble text block.
 
-- test the use of the Preamble om a GistH page
+- test the use of the Preamble o a GistH page
 - ...
 
 
