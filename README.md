@@ -6,6 +6,7 @@
        
 This is effective perhaps even as a Preamble text block.
 
+- dataEntry review with Sonny
 - test the use of the Preamble o a GistH page
 - ...
 
