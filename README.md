@@ -18,6 +18,7 @@ This is effective perhaps even as a Preamble text block.
 ...
 
 - ...
+- heatMap updates are lagging
 
 
 <hr>
