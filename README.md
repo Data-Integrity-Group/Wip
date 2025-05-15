@@ -14,6 +14,14 @@ This is effective perhaps even as a Preamble text block.
 
 <hr>
 
+## 2025-05
+...
+
+- ...
+
+
+<hr>
+
 ## 2025-04
 
 - extend this month's Plans
