@@ -10,6 +10,7 @@ This is effective perhaps even as a Preamble text block.
   - entriesTn ??
 - use AiBots to direct refinements
   - Grimoire seems to work well- now that I have subscribes for more resources
+    - relentless oursuit of unexpected intems is mandatory if  I intend to catch up
 - test the use of the Preamble on a GistH page
 - ...
 
