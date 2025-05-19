@@ -8,6 +8,8 @@ This is effective perhaps even as a Preamble text block.
 
 - dataEntry review with Sonny
   - entriesTn ??
+- use AiBots to direct refinements
+  - Grimoire seems to work well- now that I have subscribes for more resources
 - test the use of the Preamble on a GistH page
 - ...
 
