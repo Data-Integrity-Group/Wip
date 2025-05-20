@@ -11,8 +11,8 @@ This is effective perhaps even as a Preamble text block.
 - dataEntry review with Sonny
   - entriesTn ??
 - use AiBots to direct refinements
-  - Grimoire seems to work well- now that I have subscribes for more resources
-    - relentless oursuit of unexpected intems is mandatory if  I intend to catch up
+  - Grimoire seems to work well- now that I have subscribed for more resources at the $20u.s./.mo level ( -05-1? )
+    - relentless pursuit of unexpected items is mandatory if  I intend to catch up
 - test the use of the Preamble on a GistH page
 - ...
 
