@@ -13,6 +13,7 @@ This is effective perhaps even as a Preamble text block.
 - use AiBots to direct refinements
   - Grimoire seems to work very well - now that I have subscribed for more resources at the $20u.s./.mo level ( -05-1? )
     - relentless pursuit of unexpected items is mandatory if I intend to use my techStack to catch up to my potential.
+- refine my Outliner concepts based on myNewStack
 - deferred as less important:
   - test the use of the Preamble on a GistH page
 - ...
