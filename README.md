@@ -32,7 +32,7 @@ This is effective perhaps even as a Preamble text block.
 
 - ...
 - gitLocal is not working - yet
-  - ...
+  - apply AskMethods
 - heatMap updates are lagging
 
 
@@ -40,8 +40,6 @@ This is effective perhaps even as a Preamble text block.
 
 ## 2025-04
 
-- extend this month's Plans
-  - ...
 - reTest PythonInstalled
   - use PoeT - expanding for EdD uses too
     - consider TheRing
