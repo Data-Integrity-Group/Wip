@@ -6,7 +6,7 @@
        
 This is effective perhaps even as a Preamble text block.
 - investigate how this works, since it fails in other files
-  - use Asks
+  - use Asks to investigate
  
 - dataEntry review with Sonny
   - entriesTn ??
