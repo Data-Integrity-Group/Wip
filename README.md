@@ -4,6 +4,8 @@
       
       
        
+- https://github.com/HwWobbe/PubBmH/blob/main/README.md#review-newguy-resume
+
 This is effective perhaps even as a Preamble text block.
 - investigate how this works, since it fails in other files
   - use Asks to investigate
