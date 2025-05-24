@@ -5,7 +5,8 @@
       
        
 - https://github.com/HwWobbe/PubBmH/blob/main/README.md#review-newguy-resume
-  - adding this block did not break the preceding one
+  - ( adding this block did not break the preceding one )
+  - this jump accroah worked
 
 This is effective perhaps even as a Preamble text block.
 - investigate how this works, since it fails in other files
