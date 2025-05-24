@@ -21,7 +21,7 @@ This is effective perhaps even as a Preamble text block.
     - relentless pursuit of unexpected items is mandatory if I intend to use my techStack to catch up to my potential.
     - noticed that share offers gpt4o as a target
       - this seemed to work very well
-        - but needs checking/confirmation
+        - but needs checking/confirmation - this becomes a nextNote quite easily
 - refine my Outliner concepts based on myNewStack
 - deferred as less important:
   - test the use of the Preamble on a GistH page
