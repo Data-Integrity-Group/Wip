@@ -38,8 +38,6 @@ This is effective perhaps even as a Preamble text block.
   - apply AskMethods
 - heatMap updates are lagging
 
-
-    * wait for the (only in India) ProductHunt app to be released here.
       * parends may be triggering the "COPY" offer
         * reView: https://github.com/PySpur-Dev/pyspur
           * [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
