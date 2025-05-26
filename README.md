@@ -3,7 +3,8 @@
           * assume this is so - at least for now
       
       
-       
+- Another Copy area like this appears lower in this file
+  - can it be used as a template?
 - https://github.com/HwWobbe/PubBmH/blob/main/README.md#review-newguy-resume
   - ( adding this block did not break the preceding one )
   - this jump approach worked
