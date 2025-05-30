@@ -38,7 +38,7 @@ This is effective perhaps even as a Preamble text block.
 - gitLocal is not working - yet
   - apply AskMethods
 - reTest PythonInstalled
-  - use PoeT - expanding for EdD uses too
+  - use GrimH pre PoeT - expanding for EdD uses too
     - consider TheRing
 
 <hr>
