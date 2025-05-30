@@ -37,7 +37,9 @@ This is effective perhaps even as a Preamble text block.
 - ...
 - gitLocal is not working - yet
   - apply AskMethods
-
+- reTest PythonInstalled
+  - use PoeT - expanding for EdD uses too
+    - consider TheRing
 
 <hr>
 
@@ -55,10 +57,7 @@ This is effective perhaps even as a Preamble text block.
 <hr>
 
 ## 2025-04
-
-- reTest PythonInstalled
-  - use PoeT - expanding for EdD uses too
-    - consider TheRing
+...
 
 - note the ShadingLevel change at #1 = sum of lowers
   - testing with #2
