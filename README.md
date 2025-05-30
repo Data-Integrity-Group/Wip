@@ -34,15 +34,16 @@ This is effective perhaps even as a Preamble text block.
 ## 2025-06
 ...
 
+- ...
+- gitLocal is not working - yet
+  - apply AskMethods
+
 
 <hr>
 
 ## 2025-05
 ...
 
-- ...
-- gitLocal is not working - yet
-  - apply AskMethods
 - heatMap updates are lagging
 
       * parends may be triggering the "COPY" offer
