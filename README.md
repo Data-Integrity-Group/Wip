@@ -41,7 +41,7 @@ This is effective perhaps even as a Preamble text block.
   - use GrimH pre PoeT - expanding for EdD uses too
     - both are covered by nowSubs
       - test Latitude - for local & -$
-    - consider TheRing
+    - consider TheRing - ...
 
 <hr>
 
