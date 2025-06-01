@@ -25,7 +25,7 @@ This is effective perhaps even as a Preamble text block.
           - this becomes a nextNote quite easily - in an extensible manner - ? - verified - consided the doneSymbol 
 - refine my Outliner concepts based on myNewStack
 - deferred as less important:
-  - test the use of the Preamble on a GistH page
+  - test the use of the Preamble on a GistH page - but perhaps not needed with GrimK interventions
 - ...
 
 
