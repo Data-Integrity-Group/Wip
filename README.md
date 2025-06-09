@@ -3,7 +3,7 @@
           * assume this is so - at least for now
       
       
-- ...
+- GaPoN(otes)
   - ...
 - Another Copy area like this appears lower in this file
   - can it be used as a template?
