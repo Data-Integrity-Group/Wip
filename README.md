@@ -14,7 +14,7 @@
 This is effective perhaps even as a Preamble text block.
 - investigate how this works, since it fails in other files
   - use Asks to investigate
-    - persist until understood
+    - persist until understood.
  
 - dataEntry review with Sonny
   - entriesTn ??
