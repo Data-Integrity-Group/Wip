@@ -1,7 +1,7 @@
       - do the leading spaces trigger this COPY effect?
         - its beginning to look very likely
           - assume this is so - at least for now
-     - deprecate this use of copyBlocks
+     - deprecate this use of copyBlocks in favor of .tb
 
       
       
