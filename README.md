@@ -3,8 +3,7 @@
           - assume this is so - at least for now
      - deprecate this use of copyBlocks in favor of .tb
 
-      
-      
+    
 - GaPoN(otes)
   - uncertain: impacts of textBlaze
 - Another Copy area like this appears lower in this file
@@ -12,6 +11,11 @@
 - https://github.com/HwWobbe/PubBmH/blob/main/README.md#review-newguy-resume
   - ( adding this block did not break the preceding one )
   - this jump approach worked
+
+- expand: ..tb use
+  - .ho ...
+ 
+- expand .https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
 
 This is effective perhaps even as a Preamble text block.
 - investigate how this works, since it fails in other files
