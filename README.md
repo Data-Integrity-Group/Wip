@@ -1,6 +1,8 @@
-      * do the leading spaces trigger this COPY effect?
-        * its beginning to look very likely
-          * assume this is so - at least for now
+      - do the leading spaces trigger this COPY effect?
+        - its beginning to look very likely
+          - assume this is so - at least for now
+     - deprecate this use of copyBlocks
+
       
       
 - GaPoN(otes)
