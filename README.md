@@ -46,30 +46,6 @@
  
 <hr>
 
-## 2025-03
-
-- consider LOOM via AnJo
-  - apparently not SignedUp yet
-    - testing this Atlassian product
-      - I may need to get to 79 to test my Sgading subProject
-        - time will tell
-          - if I keep at it
-            - a count-down may help
-              - at least avoid some of the tedium
-                - two to go
-                  - should be done
-                    -  SUCCESS 
-
-- LoomHw01
-  - https://www.loom.com/share/26bff2cb2f21485589eff618f92d76a8
-
-- [CivicAtlas](https://github.com/Data-Integrity-Group/Wip#civicatlas)
-  - ...
-- https://github.com/TiddlyWiki/TiddlyWiki5/blob/master/contributing.md
-  - ...
-
-<hr>
-
     * wait for the (only in India) ProductHunt app to be released here.
       * parends may be triggering the "COPY" offer
         * reView: https://github.com/PySpur-Dev/pyspur
