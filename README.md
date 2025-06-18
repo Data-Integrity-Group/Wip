@@ -46,18 +46,6 @@
  
 <hr>
 
-## 2025-04
-...
-
-- note the ShadingLevel change at #1 = sum of lowers
-  - testing with #2
-    - try to confirm recursions for this rule
-      - testing for a 3rd level
-        - must iterate upwards
-          - in order to preve the rule
-
-<hr>
-
 ## 2025-03
 
 - consider LOOM via AnJo
