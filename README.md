@@ -6,6 +6,7 @@
     
 - GaPoN(otes)
   - uncertain: impacts of textBlaze - seem to be resolving - ...
+    - with increasing benefit(s)
 - Another Copy area like this appears lower in this file
   - can it be used as a template?
 - https://github.com/HwWobbe/PubBmH/blob/main/README.md#review-newguy-resume
