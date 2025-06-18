@@ -33,8 +33,6 @@
 
 <hr>
 
-# 2023:
-##
 * refine ExportImport methods
   * consider PsH based solutions for now
   * review the new Git desktop capabilities
