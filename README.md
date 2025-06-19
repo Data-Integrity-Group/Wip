@@ -25,6 +25,7 @@
 - -01: ...
 - gitLocal is not working - yet
   - apply AskMethods
+    - ...
 - reTest PythonInstalled
   - use GrimH pre PoeT - expanding for EdD uses too
     - both are covered by nowSubs
