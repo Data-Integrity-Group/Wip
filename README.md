@@ -3,15 +3,6 @@
           - assume this is so - at least for now
      - deprecate this use of copyBlocks in favor of .tb
 
-    
-- GaPoN(otes)
-  - uncertain: impacts of textBlaze - seem to be resolving - ...
-    - with increasing benefit(s)
-      - staring pulling Content itno a DOCs file
-- https://github.com/HwWobbe/PubBmH/blob/main/README.md#review-newguy-resume
-  - ( adding this block did not break the preceding one )
-  - this jump approach worked
-
 - expand: ..tb use
   - .ho ...
  
@@ -22,6 +13,13 @@
 ## 2025-07
 ...
 
+- GaPoN(otes)
+  - uncertain: impacts of textBlaze - seem to be resolving - ...
+    - with increasing benefit(s)
+      - staring pulling Content itno a DOCs file
+- https://github.com/HwWobbe/PubBmH/blob/main/README.md#review-newguy-resume
+  - ( adding this block did not break the preceding one )
+  - this jump approach worked
 
 <hr>
 
