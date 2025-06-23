@@ -16,7 +16,7 @@
 - GaPoN(otes)
   - uncertain: impacts of textBlaze - seem to be resolving - ...
     - with increasing benefit(s)
-      - staring pulling Content itno a DOCs file
+      - staring pulling Content into a DOCs file
 - https://github.com/HwWobbe/PubBmH/blob/main/README.md#review-newguy-resume
   - ( adding this block did not break the preceding one )
   - this jump approach worked
