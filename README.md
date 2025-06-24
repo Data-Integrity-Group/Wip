@@ -20,6 +20,7 @@
 - https://github.com/HwWobbe/PubBmH/blob/main/README.md#review-newguy-resume
   - ( adding this block did not break the preceding one )
   - this jump approach worked
+- start outlining LsT notes that address her concerns in DiigoH
 
 <hr>
 
