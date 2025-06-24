@@ -26,6 +26,8 @@
 ## 2025-06
 ...
 
+- Michael Geist approached by Gary ??
+  - unsettles LsT
 - -01: ...
 - gitLocal is not working - yet
   - apply AskMethods
