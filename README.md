@@ -24,7 +24,6 @@
 <hr>
 
 ## 2025-06
-...
 
 - Michael Geist approached by Gary ??
   - -25@11:00 call LsH
