@@ -28,6 +28,9 @@
 - Michael Geist approached by Gary ??
   - -25@11:00 call LsH
   - unsettles LsT 
+- guide more CurbSide work towards ...
+  - report Layouts
+  - review od newBeN(otes)
 - -06-01: gitLocal is not working - yet
   - apply AskMethods
     - ...
