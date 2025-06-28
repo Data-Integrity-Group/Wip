@@ -35,7 +35,7 @@
 - guide more CurbSide work towards ...
 
   - report Layouts
-  - review od newBeN(otes)
+  - review of newBeN(otes)
 - -06-01: gitLocal is not working - yet
   - apply AskMethods
     - ...
