@@ -29,7 +29,8 @@
 ### - 06-29: 
 - Michael Geist approached by Gary ??
   - -25@11:00 call LsH
-  - unsettles LsT 
+  - unsettles LsT
+    - why ?
 
 - guide more CurbSide work towards ...
 
