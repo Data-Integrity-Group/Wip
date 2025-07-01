@@ -6,8 +6,6 @@
 - expand: ..tb use
   - .ho ...
  
-- expand .https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
-
 <hr>
 
 ## 2025-07
@@ -15,6 +13,8 @@
 
 ### -07-01
 
+- expand .https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
+  - ...
 - GaPoN(otes)
   - uncertain: impacts of textBlaze - seem to be resolving - ...
     - with increasing benefit(s)
