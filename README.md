@@ -13,6 +13,8 @@
 ## 2025-07
 ...
 
+### -07-01
+
 - GaPoN(otes)
   - uncertain: impacts of textBlaze - seem to be resolving - ...
     - with increasing benefit(s)
