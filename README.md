@@ -14,6 +14,9 @@
 - review -07-04 Agenda
 
 
+### -07-06
+...
+
 ### -07-01
 
 - expand .https://chatgpt.com/c/6834697a-81a0-8000-9e84-5d55cd01c0f7
