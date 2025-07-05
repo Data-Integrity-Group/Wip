@@ -17,7 +17,7 @@
 ### -07-06
 ...
 
-- Michael Geist approached by Gary ??
+- 06-29: Michael Geist approached by Gary ??
 
 ### -07-01
 
