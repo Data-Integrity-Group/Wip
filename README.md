@@ -12,6 +12,7 @@
 ...
 
 - review -07-04 Agenda
+- SOWs only going forward
 
 
 ### -07-06
