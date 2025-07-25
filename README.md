@@ -13,6 +13,7 @@
 
 - review -07-04 Agenda
 - SOWs only going forward - this needs to be re-inforced
+  - with Lz too
 
 
 ### -07-06
