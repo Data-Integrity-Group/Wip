@@ -21,7 +21,7 @@
 
 - CaP:
   - confirmed a need to focus on Peter
-  - H: suggested Rpeort.we...
+  - H: suggested Report.we...
 - 06-29: Michael Geist approached by Gary ??
 
 ### -07-01
