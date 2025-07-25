@@ -12,7 +12,7 @@
 ...
 
 - review -07-04 Agenda
-- SOWs only going forward
+- SOWs only going forward - this needs to be re-inforced
 
 
 ### -07-06
