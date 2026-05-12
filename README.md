@@ -12,6 +12,8 @@
 ...
 
 -05-12: confirm I can  make the required Authorization changes.
+  - Ask(s) may be needed
+
 
 ## 2025-07
 ...
