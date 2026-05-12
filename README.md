@@ -5,6 +5,7 @@
 
 - expand: ..tb use
   - .ho ...
+    - these copyBlocks can likely be deprecated given current AI capabilities
  
 <hr>
 
