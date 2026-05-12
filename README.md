@@ -8,6 +8,11 @@
  
 <hr>
 
+## 2026-05
+...
+
+-05-12: confirm I can  make the required Authorization changes.
+
 ## 2025-07
 ...
 
