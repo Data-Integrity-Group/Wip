@@ -12,6 +12,9 @@
 ## 2026-05
 ...
 
+-05-29;:
+  - deferring changes the ...
+
 -05-12: confirm I can  make the required Authorization changes.
   - Ask(s) were be needed, but FAILs were eventually resolved/halted.
     - minor issues remain.  Suggested until .mo.tn
